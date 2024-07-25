@@ -1,1 +1,1 @@
-# Speaker-Recognition--Dynamic-Catalysts--AK-
+# Speaker-Recognition--Dynamic-Catalysts
